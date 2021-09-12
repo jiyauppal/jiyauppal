@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python and exploring mt intrest in Data science.
 - 😄 Pronouns: she/her.
 - ⚡ Fun fact: I wanna be fashion Insta lol.
-- 📫 How to reach me: 
+- 📫 How to reach me: jiyauppal02@gmail.com
 <!--
 **jiyauppal/jiyauppal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
