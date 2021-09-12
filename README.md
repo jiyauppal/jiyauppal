@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I wanna be fashion Insta lol.
 - 📫 How to reach me: jiyauppal02@gmail.com
 
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<Ujiyauppal>&theme=<THEME_NAME>" />
 <!--
 **jiyauppal/jiyauppal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
