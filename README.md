@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Data structures, Operating System, Database Management System.
-- 🌱 I’m currently learning Python and exploring mt intrest in Data science.
+- 🌱 I’m currently learning Python and exploring my interest in Data science.
 - 😄 Pronouns: she/her.
 - ⚡ Fun fact: I wanna be fashion Insta lol.
 - 📫 How to reach me: jiyauppal02@gmail.com
