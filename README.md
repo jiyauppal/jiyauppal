@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I wanna be fashion Insta lol.
 - 📫 How to reach me: jiyauppal02@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyauppal)](https://github.com/jiyauppal/github-readme-stats)
 
 <!--
 **jiyauppal/jiyauppal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
