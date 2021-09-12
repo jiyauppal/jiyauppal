@@ -1,9 +1,10 @@
 ### Hi there this side Jiya uppal👋
 
-- 🔭 I’m currently working on Data structures
-- 🌱 I’m currently learning Python 
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I wanna be fashion Insta lol
+- 🔭 I’m currently working on Data structures, Operating System, Database Management System.
+- 🌱 I’m currently learning Python and exploring mt intrest in Data science.
+- 😄 Pronouns: she/her.
+- ⚡ Fun fact: I wanna be fashion Insta lol.
+- 📫 How to reach me: 
 <!--
 **jiyauppal/jiyauppal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
