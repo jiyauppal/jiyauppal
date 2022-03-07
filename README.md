@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Data structures and my Problem Solving skills.
 - 🌱 I’m currently learning Python and exploring my interest in Data science.
 - 😄 Pronouns: she/her.
-- ⚡ Fun fact: I wanna be fashion Insta lol.
+- ⚡ Fun fact: I am fashion Insta lol.
 - 📫 How to reach me: jiyauppal02@gmail.com
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyauppal)](https://github.com/jiyauppal/github-readme-stats)
