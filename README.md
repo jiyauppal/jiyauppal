@@ -1,7 +1,7 @@
 ### Hi there this side Jiya uppal<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-- 🔭 I’m currently working on Data structures, Operating System, Database Management System.
+- 🔭 I’m currently working on Data structures and my Problem Solving skills.
 - 🌱 I’m currently learning Python and exploring my interest in Data science.
 - 😄 Pronouns: she/her.
 - ⚡ Fun fact: I wanna be fashion Insta lol.
