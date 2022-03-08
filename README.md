@@ -10,7 +10,7 @@
 - 📫 How to reach me: jiyauppal02@gmail.com
 
 
-<a href="https://www.linkedin.com/in/jiya-uppal-2209841a9/"><img align=”left” src=”https://raw.githubusercontent.com/jiyauppal/images/master/images/linkedin.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+<a href="https://www.linkedin.com/in/jiya-uppal-2209841a9/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/images/master/images/linkedin.svg" alt=”icon | LinkedIn” width=”21px”/></a>
 
 
 
