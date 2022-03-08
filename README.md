@@ -13,7 +13,8 @@
 <a href="https://instagram.com/jiaa_uppal"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
 <br>
 
-
+<br>
+<br>
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyauppal)](https://github.com/jiyauppal/github-readme-stats)
 <br>
