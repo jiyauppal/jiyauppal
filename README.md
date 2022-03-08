@@ -6,7 +6,7 @@
 - 😄 Pronouns: she/her.
 - ⚡ Fun fact: I am fashion Insta lol.
 - 📫 How to reach me: jiyauppal02@gmail.com
-
+![](https://komarev.com/ghpvc/?username=jiyauppal)
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyauppal)](https://github.com/jiyauppal/github-readme-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyauppal&layout=compact)](https://github.com/jiyauppal/github-readme-stats)
