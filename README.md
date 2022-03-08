@@ -14,6 +14,7 @@
 <br>
 <a href="https://www.linkedin.com/in/jiya-uppal-2209841a9/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="40px"/></a>
 <a href="https://instagram.com/jiaa_uppal"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="40px"/></a>
+<a href="https://leetcode.com/jiyauppal/"><img align="left" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" alt="Yu Shi | Instagram" width="40px"/></a>
 
 <br>
 <br>
