@@ -9,6 +9,11 @@
 - ⚡ Fun fact: I am fashion Insta lol.
 - 📫 How to reach me: jiyauppal02@gmail.com
 
+
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+
+
+
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyauppal)](https://github.com/jiyauppal/github-readme-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyauppal&layout=compact)](https://github.com/jiyauppal/github-readme-stats)
