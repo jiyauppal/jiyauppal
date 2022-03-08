@@ -10,7 +10,7 @@
 - 📫 How to reach me: jiyauppal02@gmail.com
 
 
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+<a href="https://www.linkedin.com/in/jiya-uppal-2209841a9/"><img align=”left” src=”https://raw.githubusercontent.com/jiyauppal/images/master/images/linkedin.svg" alt=”icon | LinkedIn” width=”21px”/></a>
 
 
 
