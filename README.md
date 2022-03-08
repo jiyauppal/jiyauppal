@@ -14,6 +14,7 @@
 <br>
 <a href="https://www.linkedin.com/in/jiya-uppal-2209841a9/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="40px"/></a>
 <a href="https://instagram.com/jiaa_uppal"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="40px"/></a>
+[<img align="left" alt="codeSTACKr | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <br>
 <br>
 <br>
