@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jiyauppal&label=Profile%20views&color=0e75b6&style=flat" alt="jiyauppal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jiyauppal" alt="jiyauppal" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/jiyauppal" target="blank"><img src="https://img.shields.io/twitter/follow/jiyauppal?logo=twitter&style=for-the-badge" alt="jiyauppal" /></a> </p>
 
 - 🔭 I’m currently working on **Data structures and my Problem Solving skills.**
