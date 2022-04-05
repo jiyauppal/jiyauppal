@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1iudNFlejo-snkUFst5qV717XI0A8FOE-/view?usp=sharing](https://drive.google.com/file/d/1iudNFlejo-snkUFst5qV717XI0A8FOE-/view?usp=sharing)
 
-- ⚡ Fun fact **I am a Fashion Insta Lol.**
+- ⚡ Fun fact **I am a Fashion Insta Lol...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
